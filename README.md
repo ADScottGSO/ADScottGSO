@@ -1,7 +1,4 @@
-- 👋 Hello, My name is Anthony Scott
-- 👀 I am interested in data science
-- 🌱 I am currently learning data analytics and manipulation in the Python language 
-- 💞️ I’m looking to collaborate on design and implementation
+
 
 
 <!---
